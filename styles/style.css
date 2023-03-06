@@ -1,0 +1,50 @@
+.main-bg {
+  background-color: #f5f8fb;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+
+.simple-article {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  width: 50%;
+}
+.simple-article article {
+  background-color: #cacaca;
+  padding: 10px;
+}
+.simple-article article h1 {
+  font-weight: 700;
+  font-size: 24px;
+  font-style: italic;
+}
+.simple-article article p {
+  font-size: 16px;
+  font-weight: 400;
+}
+.simple-article article article {
+  background: #f5f8fb;
+  margin-bottom: 1px;
+}
+.simple-article article article h3 {
+  font-weight: 500;
+  font-size: 18px;
+  font-style: italic;
+}
+.simple-article article article p {
+  font-size: 14px;
+  font-weight: 400;
+  margin-bottom: 3px;
+}
+
+.author {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20px;
+}
+.author span {
+  color: #333333;
+}/*# sourceMappingURL=style.css.map */
